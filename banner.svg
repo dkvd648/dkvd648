@@ -1,0 +1,104 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="320" viewBox="0 0 1280 320">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0d1117"/><stop offset=".6" stop-color="#111a2e"/><stop offset="1" stop-color="#1a1236"/></linearGradient>
+<linearGradient id="acc" x1="0" x2="1"><stop offset="0" stop-color="#58a6ff"/><stop offset=".55" stop-color="#a371f7"/><stop offset="1" stop-color="#f778ba"/></linearGradient>
+<linearGradient id="lg" x1="0" x2="1"><stop offset="0" stop-color="#58a6ff"/><stop offset="1" stop-color="#a371f7"/></linearGradient>
+<radialGradient id="glow" cx=".78" cy=".45" r=".5"><stop offset="0" stop-color="#a371f7" stop-opacity=".22"/><stop offset="1" stop-color="#a371f7" stop-opacity="0"/></radialGradient>
+<pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="1" fill="#30363d" fill-opacity=".55"/></pattern>
+<linearGradient id="fade" x1="0" x2="1"><stop offset="0" stop-color="#0d1117" stop-opacity="1"/><stop offset=".55" stop-color="#0d1117" stop-opacity="0"/></linearGradient>
+</defs>
+<rect width="1280" height="320" rx="18" fill="url(#bg)"/>
+<rect width="1280" height="320" rx="18" fill="url(#dots)"/>
+<rect width="1280" height="320" rx="18" fill="url(#fade)"/>
+<rect width="1280" height="320" rx="18" fill="url(#glow)"/>
+<line x1="921.9" y1="62.2" x2="986.6" y2="103.9" stroke="url(#lg)" stroke-opacity="0.31" stroke-width="1"/>
+<line x1="921.9" y1="62.2" x2="832.1" y2="53.0" stroke="url(#lg)" stroke-opacity="0.27" stroke-width="1"/>
+<line x1="921.9" y1="62.2" x2="821.9" y2="82.5" stroke="url(#lg)" stroke-opacity="0.24" stroke-width="1"/>
+<line x1="1085.5" y1="40.3" x2="1033.9" y2="37.6" stroke="url(#lg)" stroke-opacity="0.37" stroke-width="1"/>
+<line x1="1085.5" y1="40.3" x2="1124.7" y2="100.6" stroke="url(#lg)" stroke-opacity="0.32" stroke-width="1"/>
+<line x1="1085.5" y1="40.3" x2="1079.5" y2="124.3" stroke="url(#lg)" stroke-opacity="0.29" stroke-width="1"/>
+<line x1="1027.9" y1="122.4" x2="1048.6" y2="131.1" stroke="url(#lg)" stroke-opacity="0.44" stroke-width="1"/>
+<line x1="1027.9" y1="122.4" x2="1049.9" y2="147.7" stroke="url(#lg)" stroke-opacity="0.42" stroke-width="1"/>
+<line x1="1027.9" y1="122.4" x2="986.6" y2="103.9" stroke="url(#lg)" stroke-opacity="0.39" stroke-width="1"/>
+<line x1="789.0" y1="162.1" x2="778.7" y2="141.4" stroke="url(#lg)" stroke-opacity="0.44" stroke-width="1"/>
+<line x1="789.0" y1="162.1" x2="779.6" y2="207.1" stroke="url(#lg)" stroke-opacity="0.39" stroke-width="1"/>
+<line x1="789.0" y1="162.1" x2="836.0" y2="156.9" stroke="url(#lg)" stroke-opacity="0.38" stroke-width="1"/>
+<line x1="778.7" y1="141.4" x2="836.0" y2="156.9" stroke="url(#lg)" stroke-opacity="0.35" stroke-width="1"/>
+<line x1="778.7" y1="141.4" x2="789.8" y2="77.7" stroke="url(#lg)" stroke-opacity="0.34" stroke-width="1"/>
+<line x1="794.9" y1="45.4" x2="789.8" y2="77.7" stroke="url(#lg)" stroke-opacity="0.42" stroke-width="1"/>
+<line x1="794.9" y1="45.4" x2="832.1" y2="53.0" stroke="url(#lg)" stroke-opacity="0.41" stroke-width="1"/>
+<line x1="794.9" y1="45.4" x2="821.9" y2="82.5" stroke="url(#lg)" stroke-opacity="0.39" stroke-width="1"/>
+<line x1="972.3" y1="251.5" x2="969.1" y2="232.0" stroke="url(#lg)" stroke-opacity="0.45" stroke-width="1"/>
+<line x1="972.3" y1="251.5" x2="1022.6" y2="265.0" stroke="url(#lg)" stroke-opacity="0.37" stroke-width="1"/>
+<line x1="972.3" y1="251.5" x2="914.2" y2="248.5" stroke="url(#lg)" stroke-opacity="0.35" stroke-width="1"/>
+<line x1="821.9" y1="82.5" x2="832.1" y2="53.0" stroke="url(#lg)" stroke-opacity="0.42" stroke-width="1"/>
+<line x1="821.9" y1="82.5" x2="789.8" y2="77.7" stroke="url(#lg)" stroke-opacity="0.42" stroke-width="1"/>
+<line x1="1073.7" y1="285.4" x2="1022.6" y2="265.0" stroke="url(#lg)" stroke-opacity="0.36" stroke-width="1"/>
+<line x1="1073.7" y1="285.4" x2="1107.6" y2="186.4" stroke="url(#lg)" stroke-opacity="0.24" stroke-width="1"/>
+<line x1="1073.7" y1="285.4" x2="1180.0" y2="284.5" stroke="url(#lg)" stroke-opacity="0.23" stroke-width="1"/>
+<line x1="1048.6" y1="131.1" x2="1049.9" y2="147.7" stroke="url(#lg)" stroke-opacity="0.46" stroke-width="1"/>
+<line x1="1048.6" y1="131.1" x2="1079.5" y2="124.3" stroke="url(#lg)" stroke-opacity="0.42" stroke-width="1"/>
+<line x1="1248.1" y1="33.0" x2="1250.1" y2="53.1" stroke="url(#lg)" stroke-opacity="0.45" stroke-width="1"/>
+<line x1="1248.1" y1="33.0" x2="1189.2" y2="101.1" stroke="url(#lg)" stroke-opacity="0.28" stroke-width="1"/>
+<line x1="1248.1" y1="33.0" x2="1197.7" y2="107.8" stroke="url(#lg)" stroke-opacity="0.27" stroke-width="1"/>
+<line x1="1189.2" y1="101.1" x2="1197.7" y2="107.8" stroke="url(#lg)" stroke-opacity="0.47" stroke-width="1"/>
+<line x1="1189.2" y1="101.1" x2="1124.7" y2="100.6" stroke="url(#lg)" stroke-opacity="0.34" stroke-width="1"/>
+<line x1="1189.2" y1="101.1" x2="1250.1" y2="53.1" stroke="url(#lg)" stroke-opacity="0.31" stroke-width="1"/>
+<line x1="832.1" y1="53.0" x2="789.8" y2="77.7" stroke="url(#lg)" stroke-opacity="0.38" stroke-width="1"/>
+<line x1="914.2" y1="248.5" x2="969.1" y2="232.0" stroke="url(#lg)" stroke-opacity="0.36" stroke-width="1"/>
+<line x1="914.2" y1="248.5" x2="917.1" y2="184.0" stroke="url(#lg)" stroke-opacity="0.34" stroke-width="1"/>
+<line x1="850.4" y1="182.8" x2="836.0" y2="156.9" stroke="url(#lg)" stroke-opacity="0.43" stroke-width="1"/>
+<line x1="850.4" y1="182.8" x2="882.0" y2="180.8" stroke="url(#lg)" stroke-opacity="0.42" stroke-width="1"/>
+<line x1="1079.5" y1="124.3" x2="1100.2" y2="139.7" stroke="url(#lg)" stroke-opacity="0.44" stroke-width="1"/>
+<line x1="1079.5" y1="124.3" x2="1049.9" y2="147.7" stroke="url(#lg)" stroke-opacity="0.41" stroke-width="1"/>
+<line x1="1033.9" y1="37.6" x2="986.6" y2="103.9" stroke="url(#lg)" stroke-opacity="0.30" stroke-width="1"/>
+<line x1="1100.2" y1="139.7" x2="1124.7" y2="100.6" stroke="url(#lg)" stroke-opacity="0.38" stroke-width="1"/>
+<line x1="1100.2" y1="139.7" x2="1107.6" y2="186.4" stroke="url(#lg)" stroke-opacity="0.38" stroke-width="1"/>
+<line x1="917.1" y1="184.0" x2="882.0" y2="180.8" stroke="url(#lg)" stroke-opacity="0.41" stroke-width="1"/>
+<line x1="1157.2" y1="215.7" x2="1142.3" y2="180.4" stroke="url(#lg)" stroke-opacity="0.40" stroke-width="1"/>
+<line x1="1157.2" y1="215.7" x2="1107.6" y2="186.4" stroke="url(#lg)" stroke-opacity="0.36" stroke-width="1"/>
+<line x1="1157.2" y1="215.7" x2="1180.0" y2="284.5" stroke="url(#lg)" stroke-opacity="0.32" stroke-width="1"/>
+<line x1="882.0" y1="180.8" x2="836.0" y2="156.9" stroke="url(#lg)" stroke-opacity="0.37" stroke-width="1"/>
+<line x1="1022.6" y1="265.0" x2="969.1" y2="232.0" stroke="url(#lg)" stroke-opacity="0.34" stroke-width="1"/>
+<line x1="1250.1" y1="53.1" x2="1197.7" y2="107.8" stroke="url(#lg)" stroke-opacity="0.31" stroke-width="1"/>
+<line x1="1142.3" y1="180.4" x2="1107.6" y2="186.4" stroke="url(#lg)" stroke-opacity="0.41" stroke-width="1"/>
+<circle cx="921.9" cy="62.2" r="2.4" fill="#58a6ff" fill-opacity="0.57"/>
+<circle cx="1085.5" cy="40.3" r="3.2" fill="#3fb950" fill-opacity="0.81"/>
+<circle cx="1027.9" cy="122.4" r="3.2" fill="#79c0ff" fill-opacity="0.66"/>
+<circle cx="789.0" cy="162.1" r="2.4" fill="#3fb950" fill-opacity="0.56"/>
+<circle cx="778.7" cy="141.4" r="2.4" fill="#3fb950" fill-opacity="0.62"/>
+<circle cx="794.9" cy="45.4" r="1.8" fill="#79c0ff" fill-opacity="0.57"/>
+<circle cx="972.3" cy="251.5" r="2.4" fill="#a371f7" fill-opacity="0.85"/>
+<circle cx="821.9" cy="82.5" r="2.4" fill="#79c0ff" fill-opacity="0.92"/>
+<circle cx="1073.7" cy="285.4" r="2.4" fill="#58a6ff" fill-opacity="0.62"/>
+<circle cx="1048.6" cy="131.1" r="2.4" fill="#3fb950" fill-opacity="0.90"/>
+<circle cx="1248.1" cy="33.0" r="2.4" fill="#3fb950" fill-opacity="0.83"/>
+<circle cx="1189.2" cy="101.1" r="2.4" fill="#79c0ff" fill-opacity="0.93"/>
+<circle cx="832.1" cy="53.0" r="1.8" fill="#58a6ff" fill-opacity="0.62"/>
+<circle cx="914.2" cy="248.5" r="1.8" fill="#a371f7" fill-opacity="0.55"/>
+<circle cx="850.4" cy="182.8" r="3.2" fill="#a371f7" fill-opacity="0.66"/>
+<circle cx="1079.5" cy="124.3" r="1.8" fill="#a371f7" fill-opacity="0.72"/>
+<circle cx="1033.9" cy="37.6" r="2.4" fill="#3fb950" fill-opacity="0.93"/>
+<circle cx="789.8" cy="77.7" r="3.2" fill="#58a6ff" fill-opacity="0.73"/>
+<circle cx="1100.2" cy="139.7" r="3.2" fill="#79c0ff" fill-opacity="0.71"/>
+<circle cx="917.1" cy="184.0" r="2.4" fill="#58a6ff" fill-opacity="0.74"/>
+<circle cx="986.6" cy="103.9" r="2.4" fill="#58a6ff" fill-opacity="0.63"/>
+<circle cx="1157.2" cy="215.7" r="1.8" fill="#79c0ff" fill-opacity="0.61"/>
+<circle cx="882.0" cy="180.8" r="2.4" fill="#58a6ff" fill-opacity="0.59"/>
+<circle cx="1022.6" cy="265.0" r="3.2" fill="#a371f7" fill-opacity="0.76"/>
+<circle cx="1124.7" cy="100.6" r="2.4" fill="#58a6ff" fill-opacity="0.58"/>
+<circle cx="1250.1" cy="53.1" r="1.8" fill="#79c0ff" fill-opacity="0.61"/>
+<circle cx="969.1" cy="232.0" r="2.4" fill="#3fb950" fill-opacity="0.79"/>
+<circle cx="836.0" cy="156.9" r="2.4" fill="#58a6ff" fill-opacity="0.60"/>
+<circle cx="779.6" cy="207.1" r="2.4" fill="#79c0ff" fill-opacity="0.74"/>
+<circle cx="1142.3" cy="180.4" r="2.4" fill="#58a6ff" fill-opacity="0.61"/>
+<circle cx="1197.7" cy="107.8" r="3.2" fill="#3fb950" fill-opacity="0.85"/>
+<circle cx="1107.6" cy="186.4" r="2.4" fill="#a371f7" fill-opacity="0.76"/>
+<circle cx="1049.9" cy="147.7" r="1.8" fill="#3fb950" fill-opacity="0.61"/>
+<circle cx="1180.0" cy="284.5" r="3.2" fill="#58a6ff" fill-opacity="0.85"/>
+<rect x="72" y="74" width="5" height="172" rx="2.5" fill="url(#acc)"/>
+<text x="104" y="136" font-family="Inter, 'Inter Tight', sans-serif" font-weight="800" font-size="62" fill="#f0f6fc" letter-spacing="-1.5">Dhanush Dabbiru</text>
+<text x="106" y="182" font-family="Inter, sans-serif" font-weight="600" font-size="28" fill="url(#acc)">Senior Generative AI Engineer</text>
+<text x="106" y="226" font-family="'JetBrains Mono', monospace" font-weight="500" font-size="18" fill="#8b949e">LLM agents · Multimodal RAG · Voice AI · Computer Vision</text>
+<text x="106" y="262" font-family="'JetBrains Mono', monospace" font-size="14" fill="#6e7681">AWS Bedrock · LangGraph · FastAPI  —  Fairfax, VA</text>
+</svg>
