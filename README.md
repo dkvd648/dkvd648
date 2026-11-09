@@ -37,7 +37,7 @@
 - **[Savoas](https://voice-agents-frontend-60vy.onrender.com/)** · independent: real-time AI voice receptionist for salons (LangGraph, Groq GPT-OSS, FastAPI, Telnyx/Twilio, Deepgram, Cartesia, Pinecone, Redis) with booking, calendar and payment tools.
 - **[xDial](https://xdialai.ai/)**: healthcare voice/IVR infrastructure for automated insurance-verification calls (C, WebSockets, WebAssembly, NVIDIA Parakeet / Nemotron, Twilio, Medplum, PostgreSQL, Terraform on AWS).
 - **[Quarterlife](https://www.quarterlife.io/)**: AI-assisted financial platform (Claude, LangGraph, structured tool calls, Plaid, FastAPI, PostgreSQL/Supabase) with scoring and scenario-testing engines and React/TypeScript and Flutter apps.
-- **[Ribbon Images](https://apps.apple.com/us/app/ribbon-images/id6763367166)** (iOS) and Ribbon AI services · AreaProbe, for [Ribbon Demographics](https://ribbondata.com/).
+- **[Ribbon Images](https://www.ribbonimages.com/)** ([iOS app](https://apps.apple.com/us/app/ribbon-images/id6763367166)) and Ribbon AI services · AreaProbe.
 - **DKVR**: legal document workspace with multimodal ingestion, RAG-grounded chat with citations, and section-by-section drafting (AWS Bedrock, Pinecone, LangGraph, Celery).
 
 **Public repos and sites**
