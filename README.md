@@ -27,15 +27,24 @@
 | **Voice AI** | Real-time phone and app voice agents: Deepgram Nova-3 STT, Cartesia Sonic TTS, Twilio / Telnyx, WebSockets, barge-in handling |
 | **Cloud & apps** | FastAPI on AWS (EC2, ECS, ECR, S3, Lambda), Docker, Terraform; React/TypeScript and Flutter clients |
 
-### 🚀 Selected work
+### 🚀 Products I've built / worked on
 
-> Most of my production work lives in private company repositories, so these are described here rather than linked.
+> The code for these lives in private company repositories, so I link to the live products instead of the source.
 
-- **SpeakCanary** · AreaProbe: multimodal video intelligence for 8–12 concurrent camera streams (motion, person, custom-object and face detection) with alerts in ~2–3 s, and semantic search over 10K+ frames with sub-second retrieval.
-- **Clarity Sidekick** · ClarityPath AI: LangGraph assistant on AWS Bedrock and Gemini with an 11-type durable-memory architecture; rolling summaries and memory caching cut repeated context/token usage by ~30–40%.
-- **AfterBuy**: AI receipt-management app (AWS Bedrock + LLaMA 4 Scout, FastAPI, Flutter) that turns receipt photos into searchable purchase records.
-- **Savoas** · independent: real-time AI voice receptionist for salons (LangGraph, Groq GPT-OSS, FastAPI, Telnyx/Twilio, Deepgram, Cartesia, Pinecone, Redis) with booking, calendar and payment tools.
+- **[SpeakCanary](https://www.speakcanary.com/)** · AreaProbe: multimodal video intelligence for 8–12 concurrent camera streams (motion, person, custom-object and face detection) with alerts in ~2–3 s, and semantic search over 10K+ frames with sub-second retrieval. Shipped on web, iOS/Android and Samsung Tizen / LG webOS TV.
+- **[Clarity Sidekick](https://claritysidekick.com/)** · ClarityPath AI: LangGraph assistant on AWS Bedrock and Gemini with an 11-type durable-memory architecture; rolling summaries and memory caching cut repeated context/token usage by ~30–40%. [Web app](https://app.claritysidekick.com/)
+- **[AfterBuy](https://afterbuy.ai/)**: AI receipt-management app (AWS Bedrock + LLaMA 4 Scout, FastAPI, Flutter) that turns receipt photos into searchable purchase records. [App Store](https://apps.apple.com/us/app/smart-receipts-afterbuy/id6759800812) · [Google Play](https://play.google.com/store/apps/details?id=com.receiptlyai.billo)
+- **[Savoas](https://voice-agents-frontend-60vy.onrender.com/)** · independent: real-time AI voice receptionist for salons (LangGraph, Groq GPT-OSS, FastAPI, Telnyx/Twilio, Deepgram, Cartesia, Pinecone, Redis) with booking, calendar and payment tools.
+- **[xDial](https://xdialai.ai/)**: healthcare voice/IVR infrastructure for automated insurance-verification calls (C, WebSockets, WebAssembly, NVIDIA Parakeet / Nemotron, Twilio, Medplum, PostgreSQL, Terraform on AWS).
+- **[Quarterlife](https://www.quarterlife.io/)**: AI-assisted financial platform (Claude, LangGraph, structured tool calls, Plaid, FastAPI, PostgreSQL/Supabase) with scoring and scenario-testing engines and React/TypeScript and Flutter apps.
+- **[Ribbon Images](https://apps.apple.com/us/app/ribbon-images/id6763367166)** (iOS) and Ribbon AI services · AreaProbe, for [Ribbon Demographics](https://ribbondata.com/).
 - **DKVR**: legal document workspace with multimodal ingestion, RAG-grounded chat with citations, and section-by-section drafting (AWS Bedrock, Pinecone, LangGraph, Celery).
+
+**Public repos and sites**
+
+- 🌐 **[Portfolio](https://dkvd648.github.io/portfolio/)**: my live portfolio site ([source](https://github.com/dkvd648/portfolio))
+- 🎥 **[Website-demo](https://github.com/dkvd648/Website-demo)**: ResidentsView (AreaProbe) AI-security marketing page with demo videos, including license-plate detection
+- 🤝 **[global_org](https://github.com/dkvd648/global_org)**: Flask website build for the [Global Economic Foundation](https://globaleconomicfoundation.org/), a Virginia nonprofit
 
 ### 🛠️ Tech stack
 
